@@ -16,9 +16,9 @@ This is a simple and interactive **To-Do List Web Application** built using **HT
 ```
 ---
 ## 🛠️ Tech Stack
-HTML – Structure
-CSS – Styling and theming
-JavaScript – Dynamic task management
+- **HTML5** – Structure
+- **CSS** – Styling and theming
+- **JavaScript** – Dynamic task management
 
 ---
 
@@ -37,18 +37,18 @@ JavaScript – Dynamic task management
 ## 🚀 Getting Started
 1. Clone the repository or download the files.
 2. Run the App:
-    Open index.html in your browser
-    Or use Live Server in VS Code for real-time preview.
+   - Open index.html in your browser.
+   - Or use Live Server in VS Code for real-time preview.
 3. Resize the browser window to see the responsive effect.
 4. Click the Dark/Light mode button on the top to switch between modes dynamically.
  
 ---
 
 ## 📌 To-Do (Improvements)
- 1. Add task persistence with localStorage.
- 2. Add task due dates or priorities.
- 3. Add filtering (All / Active / Completed).
- 4. Drag-and-drop reordering.
+ - Add task persistence with localStorage.
+ - Add task due dates or priorities.
+ - Add filtering (All / Active / Completed).
+ - Drag-and-drop reordering.
     
 ---
 
