@@ -2,8 +2,8 @@
 
 This is a simple and interactive **To-Do List Web Application** built using **HTML**, **CSS**, and **Vanilla JavaScript**. Users can add tasks, mark them as complete, delete them, and switch between light and dark themes.
 ## Screenshots
-![Light Mode](https://github.com/shubham010-dev/task_02/blob/main/Screenshot%202025-08-06%20165354.png?raw=true)
-![Dark Mode](https://github.com/shubham010-dev/task_02/blob/main/Screenshot%202025-08-06%20165319.png?raw=true)
+![Light Mode](https://github.com/shubham010-dev/task_02/blob/main/Screenshot%202025-08-06%20165319.png?raw=true)
+![Dark Mode](https://github.com/shubham010-dev/task_02/blob/main/Screenshot%202025-08-06%20165354.png?raw=true)
 ## 📁 Project Structure
 ```
 ├──README.md # Project documentation
