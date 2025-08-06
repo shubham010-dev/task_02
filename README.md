@@ -25,7 +25,7 @@ This is a simple and interactive **To-Do List Web Application** built using **HT
 ## ✨ Features
 
 - ✅ Add new tasks
-- ✅ Mark tasks as complete (toggle line-through)
+- ✅ Mark tasks as complete (toggle)
 - ✅ Delete tasks
 - ✅ Instant UI updates without page reload
 - ✅ Responsive layout
