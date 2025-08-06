@@ -7,7 +7,7 @@ This is a simple and interactive **To-Do List Web Application** built using **HT
 ## 📁 Project Structure
 ```
 ├──README.md # Project documentation
-├──Screenshot 2025-08-06 165319.png  Screenshot of Dark mode in a mobile screen
+├──Screenshot 2025-08-06 165319.png  #Screenshot of Dark mode in a mobile screen
 ├──Screenshot 2025-08-06 165354.png  #Screenshot of Light mode in a  laptop
 ├── index.html # Main HTML structure
 ├── script.js # JavaScript logic (add, delete, toggle)
