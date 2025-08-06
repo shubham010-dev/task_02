@@ -6,12 +6,13 @@ This is a simple and interactive **To-Do List Web Application** built using **HT
 ![Dark Mode](https://github.com/shubham010-dev/task_02/blob/main/Screenshot%202025-08-06%20165319.png?raw=true)
 ## 📁 Project Structure
 ```
+├──README.md # Project documentation
 ├──Screenshot 2025-08-06 165319.png  Screenshot of Dark mode in a mobile screen
 ├──Screenshot 2025-08-06 165354.png  #Screenshot of Light mode in a  laptop
 ├── index.html # Main HTML structure
 ├── script.js # JavaScript logic (add, delete, toggle)
-├── style.css # Styling for layout and dark/light mode
-└── README.md # Project documentation
+└── style.css # Styling for layout and dark/light mode
+
 ```
 ---
 ## 🛠️ Tech Stack
